@@ -14,19 +14,31 @@ export default class HomepageCarousel extends React.Component {
             >
                 <div
                     className="carousel-item"
-                    style={{ backgroundImage: 'url("img/home-pic7.jpg")' }}
+                    style={{
+                        backgroundImage:
+                            'url("https://www.dropbox.com/s/4gpxi082kkgo3ht/home-pic7.jpg?dl=0&raw=1")',
+                    }}
                 />
                 <div
                     className="carousel-item"
-                    style={{ backgroundImage: 'url("img/home-pic8.jpg")' }}
+                    style={{
+                        backgroundImage:
+                            'url("https://www.dropbox.com/s/6uowpzhmpuxz52k/home-pic8.jpg?dl=0&raw=1")',
+                    }}
                 />
                 <div
                     className="carousel-item"
-                    style={{ backgroundImage: 'url("img/post-cover.jpg")' }}
+                    style={{
+                        backgroundImage:
+                            'url("https://www.dropbox.com/s/zsjdtetnt8no19o/post-cover.jpg?dl=0&raw=1")',
+                    }}
                 />
                 <div
                     className="carousel-item"
-                    style={{ backgroundImage: 'url("img/home-pic13.jpg")' }}
+                    style={{
+                        backgroundImage:
+                            'url("https://www.dropbox.com/s/e5g3hfilno49ksa/home-pic13.jpg?dl=0&raw=1")',
+                    }}
                 />
             </Carousel>
         );
