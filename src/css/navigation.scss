@@ -1,0 +1,13 @@
+.navigation-root {
+    display: flex;
+    justify-content: flex-end;
+    :first-child {
+        margin-right: auto;
+    }
+}
+
+.navigation-item {
+    a {
+        text-decoration: none;
+    }
+}
